@@ -1,0 +1,20 @@
+#R1, #R2, #R3{
+    display: flex;
+}
+.box {
+    height:25px;
+    width: 25px;
+    border: 1px solid #000;
+}
+.box p{
+    padding: 5px;
+    text-align: center;
+    margin: 0px;
+}
+
+.box p.red{
+    color: red;
+}
+.box p.black{
+    color: black;
+}
